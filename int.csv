@@ -1,0 +1,53 @@
+intent,description
+Card: disable,User has an active card which they want to pause or block
+Card: enable,"User has an active card which is pause/blocked. Now, they want to enable it back"
+Card: get shipping status where is,User wants to understand about the shipping status of their card
+Card: report stolen or lost,User identifies that their card is compromised or lost or stolen. Card is no longer secure
+Global: get balance,User wants to understand how much funds or money they have in their account
+Global: get routing number,User wants to know their routing number for any fund transfers with their account
+Statement: get,User wants to understand their historical transactions
+Transaction: history,"User wants to look at their historical transactions. This would have the histoy of all the purchases, transfers and deposists"
+Transaction: report incorrect transaction,User believes there are issues with their historical transactions and wants to report something incorrect or fraudulent
+User Account: change email address,User wants to update/ modify / delete their current email address
+User Account: change mailing address,User wants to update/ modify / delete their current mailing or postal address
+Card: activate,User recently obtained a new card and wants to activate it
+Spend Account: transfer funds in,User wants to transfer funds in to their account from elsewhere
+Spend Account: transfer funds out,User wants to transafer funds out of their account to elsewhere
+Spend Account: transfer funds,User wants to transfer funds either into or out of their account
+Spend Account: transfer funds checks,User wants to transfer finds via checks
+Spend Account: transfer funds external bank,User wants to transfer funds to an external bank
+User Account: login assistance,User having some trouble logging into their online account
+Savings Account: get info view program,user wants to understand features of their savings account
+Savings Account: setup sign up,User wants to setup or sign up a savings account
+Spend Account: consent to direct deposit,User wants to consent to direct deposit on their account
+Spend Account: get direct deposit info,User has direct deposit feature on their account and wants to get the information regarding direct deposit
+Spend Account: load funds,User wants to add funds or transfer funds to his account
+User Account: connect banks,user wants to connect their other bank accounts to this account or card
+Rewards: view offers,User wants to understand if there are any rewards associated with his account or card
+User Account: sign up create register,User wants to create or register an account
+Rewards: opt in,User wants to opt-in or subscribe to the rewards program. Some cards offer rewards to customers when they make specific transactions
+Rewards: opt out,User wants to opt out or unsubscribe from the rewards program. Some cards offer rewards to customers when they make specific transactions
+User Account: recover or reset password,User wants to change their password due to old password expired or forgotten or any other reason
+User Account: recover or reset username,User wants to change their username for any other reason
+User Account: change phone number,User wants to update the phone number on their profile. All key communications to the user will be via this phone number
+User Account: get help contact customer service,User wants to talk to a customer service agent via phone
+Spend Account: transfer funds external card,User wants to transfer money / funds from their spending account to an external card
+Spending Tracker: get info,User wants to view the information page with in spending tracker. This page has insights on users purchases/ spends
+Spending Tracker: get transaction details,User wants to view the transaction details spending tracker. This will allow user to get a detailed view on each transaction
+Overdraft: opt out,User wants to opt out or unsubscribe from Overdraft feature. Overdraft or OD is when you can make transactions beyond your balance
+Overdraft: sign up opt in,User wants to sing up or subscribe to Overdraft feature. Overdraft or OD is when you can make transactions beyond your balance
+User Account: setup biometrics,User wants to setup biometrics for enhanced security on his account
+User Account: get secure inbox messages,User wants to view messages in their inbox
+Card: report not received,User has been expecting a new or a replacement card but it never is delivered to him or still in shipping
+Card: reset PIN,User wants to reset their ATM or card PIN. It could be due to old PIN being compromised or expired
+User Account: get fee plan info,User wants to undersatnd the fee plans on his card. This plan will comphrehensively cover all the usage fees and or charges on different type of transactions
+Card: add new,User wants to add a new or replacement card to his account.
+Document: upload,User wants to upload a document for ID or security verification needed in some processes
+Spending Account: find ATMs,User wants to find ATMs near him or at any particular location
+Spending Account: get cash withdrawal and reload locations,User wants to find locations that have cash withdrawal and reload facilitiels. These locations are different from ATM locations
+User Account: log out,User wants to log out of the current session
+Card: get info status,User wants to understand his card status - shipped / active/ blocked etc
+Card: replace or upgrade it,User wants to replace the current card with a new one or a better card
+User Account: esign,User wants to esgin or validate the documents
+Refer a Friend: get info,User wants to understand the process and benefits of referring a friend or someone they know
+Refer a Friend: initiate,User wnats to refer someone to signup for a product or feature
